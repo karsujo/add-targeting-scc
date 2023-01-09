@@ -2,7 +2,7 @@
 Social Media Networks are used to describe the relationship between various entities on a social media platform. These networks typically leverage graph theory and properties of graphs to gain some insight into the kinds of relationships modeled. In this project, I aim to explore a particular property of such graphs called strongly connected components, and apply this concept to a common problem in social media networks : Advertisement targeting (Community
 detection).
 
-**Please read the Report.pdf document for a detailed description and analysis**
+**Please read the [Report.pdf](https://github.com/karsujo/AdTargettingSCC/blob/master/Report.pdf) document for a detailed description and analysis**
 
 ## Instructions
 To run the program, make sure python3 is installed, then go to the directory containing the SCC_SMN.py file and execute the command (in terminal):
