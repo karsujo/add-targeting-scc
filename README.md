@@ -35,7 +35,7 @@ that are related to Binghamton University : ISSS, BinghamtonUniversity, and SUNY
 also other Pages such as Culture, Europe etc. All other nodes are people nodes, and the
 connections between these nodes indicate that they follow each other.
 
-![Graph](img.png)
+![Graph](scc-example.png)
 
 When we run an SCC detection algorithm on this such as Kosaraju on this graph, we get the
 following components (Implemented program output) :
